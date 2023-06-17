@@ -1,3 +1,3 @@
-# chip8
+# Chip8 Emulator
 
-A new Flutter project.
+An 8 chip emulator for educational purposes.
